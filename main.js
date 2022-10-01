@@ -3,7 +3,7 @@ const myself = {
        age   :"22",
        study :"Diploma In Computer Engineering",
        studyCenter:"ISTT",
-       metarialStatus: "Marrird",
+       metarialStatus: "Married",
     family:{
         parents:{
             father:"Md.Alauddin",
@@ -11,7 +11,7 @@ const myself = {
             always_say:"Meye to na jeno akta agun Aar gola amr🙂 Atto rag ...Afterall meye to amr e 😂",
             mother:"Mrs.Nazma Yeasmin",
             age   :40,
-            always_say:"Amr Brithi moni ja bole ta kore dekhay😊😊",
+            always_say:"Amr Brithe moni ja bole ta kore dekhay😊😊",
         },
         siblings :{
             sister:{
@@ -28,7 +28,7 @@ const myself = {
             youngerBrother:{
                 name :"Monjurul Islam",
                 age  :19,
-                myMsg:"R maris na amare 😥 iktu valo hoi ja" ,
+                myMsg:"R maris na amare  vai😥 iktu  to respect kor" ,
             },
     
         },
@@ -37,9 +37,9 @@ const myself = {
     my_Legends_Friends:{
         Rameem:{
             name :"Mahmood Hossain Rameem",
-            age  : 18,
+            age  : 19,
            playCharacter:"Everything ok when fahmida say yes! Overall Alavola vai amr  !",
-          always_say:"R a parba tumi❤️...vhoy nai ami✌️😊😊 "
+          always_say:"R a parba tumi❤️...vhoy nai ami achi✌️😊😊 "
     },
     Rasel:{
         name :"Jahidul Islam Rasel",
@@ -55,13 +55,13 @@ const myself = {
     },
     Pathan:{
       name :"Pabel Pathan",
-      age  : 22,
+      age  : 20,
       playCharacter:"Best photographer in Legend group",
       always_say:" Ato pora lage naki ? Amni e A+✌️"
     },
     Mahabul:{
-            name :"Mahmood Hossain Rameem",
-            age  : 18,
+            name :"Mahabul Alam",
+            age  : 19,
             playCharacter:"Chupchap...kintu Erin ful hole bapper ta different😜",
             always_say:"Apu ami kichu komu na🙈 "
     },
